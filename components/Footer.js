@@ -17,7 +17,7 @@ export default function Footer() {
         <div className="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>Copyright</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
-          <Link href="https://blogwebsite-git-master-parthi-bharathi.vercel.app/">{siteMetadata.title}.</Link>
+          <Link href="https://blogwebsite-git-master-parthi-bharathi.vercel.app/"></Link>
           <div>Crafted with ❤️ by Parthi.</div>
         </div>
       </div>
