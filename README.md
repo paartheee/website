@@ -1,2 +1,3 @@
-# junryo.xyz
+# website
+
 my own personal blog
