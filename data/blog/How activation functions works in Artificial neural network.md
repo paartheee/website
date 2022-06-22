@@ -5,5 +5,5 @@ author: ['Parthiban Marimuthu']
 tags: ['Deep Learning', 'Machine Learning', 'OpenCV']
 draft: false
 summary: How many of us realize how our brain takes decisions…? The majority of us said no! Cool, we will know little more about that.
-link: https://medium.com/mlearning-ai/how-activation-functions-work-in-deep-learning-341a78260de0
+link: https://www.kdnuggets.com/2022/06/activation-functions-work-deep-learning.html
 ---
