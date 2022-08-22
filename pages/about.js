@@ -38,11 +38,11 @@ export default function About() {
               I currently live in Chennai (India), and work at the Spritle Software.
             </p>
             <p>
-              Study and transform data science prototypes and Design machine learning systems.Research and implement appropriate ML algorithms and tools. Develop machine learning applications according to requirements.Select appropriate datasets and data representation methods. Perform statistical analysis and fine-tuning using test results and Extend existing ML libraries and frameworks.
+              Budding ML Developer with hands-on knowledge of developing Machine Learning models and Research and implement appropriate ML algorithms. Have the ability to understand the business, solve problems and describe solutions. Skilled in Python, Computer Vision, TensorFlow and Deep Learning.
             </p>
-            <p>
+            {/* <p>
             My primary research interest is the development of artificial intelligence platforms and high-performance applications. In particular, I am interested in taking advantage of the evolutionary algorithm in order to discover a new space of knowledge.
-            </p>
+            </p> */}
            
           </div>
         </div>
