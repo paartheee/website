@@ -5,5 +5,5 @@ author: ['Parthiban Marimuthu']
 tags: ['Elon Musk', 'Tesla', 'SpaceX']
 draft: false
 summary: Elon co-founded and leads Tesla, SpaceX, Neuralink, OpenAI and The boring company (Hyperloop). Elon leads all product design, engineering, manufacturing the electric vehicles, battery products and solar energy products.
-link: https://parthibanmarimuthu.medium.com/how-elon-musk-is-trying-to-change-the-world-e09f156f3681
+link: https://medium.com/@parthibanmarimuthu/how-elon-musk-is-trying-to-change-the-world-1fceaf9f0a32
 ---
